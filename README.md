@@ -6,12 +6,12 @@
 
 ---
 
-## 🎯 Resume Claims Covered
+## 🎯 Core Technical Competencies
 
-| Claim ID   | Capability                           | Deliverable                                                                   |
-| :--------- | :----------------------------------- | :---------------------------------------------------------------------------- |
-| **CERT_01** | Engineering Fundamentals (Thermodynamics, Circuits, Statics) | Python Jupyter notebooks solving standard FE exam problems. |
-| **EDU_CSULA_07** | Mechanical & Physical Engineering | Notebooks demonstrating static FEA analysis or kinematic math. |
+| Capability                           | Deliverable                                                                   |
+| :----------------------------------- | :---------------------------------------------------------------------------- |
+| Engineering Fundamentals (Thermodynamics, Circuits, Statics) | Python Jupyter notebooks solving standard FE exam problems. |
+| Mechanical & Physical Engineering | Notebooks demonstrating static FEA analysis or kinematic math. |
 
 ---
 
