@@ -4,6 +4,9 @@
 
 > A collection of Python-based Jupyter notebooks demonstrating mastery of foundational engineering principles (Statics, Thermodynamics, Circuits) required for the FE exam, solved using modern computational tools (`numpy`, `sympy`).
 
+## Roadmap
+[View the Structural Roadmap](ROADMAP.md)
+
 ---
 
 ## 🎯 Core Technical Competencies
